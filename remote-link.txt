@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pete-constructed-howard-almost.trycloudflare.com/vnc.html
+URL       : https://precisely-posted-complimentary-lately.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 10:06:12
+Created   : 2026-08-31 15:07:07
 =======================================================
